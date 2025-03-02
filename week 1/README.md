@@ -1,6 +1,3 @@
-# Data Science Internship
-
-This repo is to store all the content of the Data science related programs and scripts.
 
 ## Task Overview:
 In this task, you will set up Python, learn basic NumPy and Pandas operations, and create simple data visualizations using Matplotlib.
